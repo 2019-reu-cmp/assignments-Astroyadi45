@@ -1,0 +1,15 @@
+Yadira Gaibor
+Day3
+
+1> A for loop iterates over an entire range. A while loop iterates
+   until a condition becomes False. 
+
+2>One iteration for 6 decmial places. Two for 12. And three iterations to get the most accuracy.
+
+3>You can use with, or you can use open. You would use each depending
+  on how big the file is.
+
+4>Using with statements is safer because you dont have to close the file.
+  (Forgetting to close the file can be tragic for memory)
+
+5>An iterable is an object that contains multiple elements, that can be cycled through.
