@@ -1,0 +1,11 @@
+Yadira Gaibor
+Day4
+
+
+1> We can think of strings as joined lists of characters. You can use indexing methods in both,but can't edit strings like that.
+
+2>They are useful because it is easier and faster to go through a list like that.
+
+3>see check_module
+
+4>see dot_prod
