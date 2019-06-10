@@ -1,0 +1,10 @@
+Yadira Gaibor
+Day 5
+
+1>np.array() allows us to perform mathematical operations.
+
+2>It does element by element operations.
+
+3>The user can specify which axis the statistics functions operate in.
+
+4>see sun_hist.py
